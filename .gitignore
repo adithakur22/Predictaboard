@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+*predictaboard_env/
+models/
+db/
+notebooks/
+__pycache__/
+*.pkl
+*.npy
+*.pyc
+.env
