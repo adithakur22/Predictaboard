@@ -1,0 +1,16 @@
+[
+  "num__tenure_months",
+  "num__monthly_charges",
+  "num__total_charges",
+  "num__num_support_tickets",
+  "cat__contract_type_Month-to-month",
+  "cat__contract_type_One year",
+  "cat__contract_type_Two year",
+  "cat__internet_service_DSL",
+  "cat__internet_service_Fiber optic",
+  "cat__internet_service_No",
+  "cat__payment_method_Bank transfer (automatic)",
+  "cat__payment_method_Credit card (automatic)",
+  "cat__payment_method_Electronic check",
+  "cat__payment_method_Mailed check"
+]
